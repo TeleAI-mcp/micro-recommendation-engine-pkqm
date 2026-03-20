@@ -1,2 +1,3 @@
-# micro-recommendation-engine-pkqm
-A AI-powered recommendation system for modern development workflows
+# Micro Recommendation Engine Pkqm
+
+A AI-powered recommendation system for modern development workflows.
